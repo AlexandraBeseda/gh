@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gh/static/css/main.3154d1f7.chunk.css",
+    "main.js": "/gh/static/js/main.89c867ce.chunk.js",
+    "main.js.map": "/gh/static/js/main.89c867ce.chunk.js.map",
+    "runtime-main.js": "/gh/static/js/runtime-main.e44e14b0.js",
+    "runtime-main.js.map": "/gh/static/js/runtime-main.e44e14b0.js.map",
+    "static/js/2.8fdb01cb.chunk.js": "/gh/static/js/2.8fdb01cb.chunk.js",
+    "static/js/2.8fdb01cb.chunk.js.map": "/gh/static/js/2.8fdb01cb.chunk.js.map",
+    "static/js/3.d9d7ee82.chunk.js": "/gh/static/js/3.d9d7ee82.chunk.js",
+    "static/js/3.d9d7ee82.chunk.js.map": "/gh/static/js/3.d9d7ee82.chunk.js.map",
+    "index.html": "/gh/index.html",
+    "static/css/main.3154d1f7.chunk.css.map": "/gh/static/css/main.3154d1f7.chunk.css.map",
+    "static/js/2.8fdb01cb.chunk.js.LICENSE.txt": "/gh/static/js/2.8fdb01cb.chunk.js.LICENSE.txt",
+    "static/media/Registration.module.css": "/gh/static/media/login-background.8cdfc580.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e44e14b0.js",
+    "static/js/2.8fdb01cb.chunk.js",
+    "static/css/main.3154d1f7.chunk.css",
+    "static/js/main.89c867ce.chunk.js"
+  ]
+}
